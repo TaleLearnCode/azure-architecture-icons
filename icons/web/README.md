@@ -1,0 +1,21 @@
+# Web
+This directory contains the following files:
+
+- [00046-icon-service-App-Service-Plans.svg](00046-icon-service-App-Service-Plans.svg)
+- [00049-icon-service-App-Service-Certificates.svg](00049-icon-service-App-Service-Certificates.svg)
+- [00050-icon-service-App-Service-Domains.svg](00050-icon-service-App-Service-Domains.svg)
+- [01007-icon-service-Static-Apps.svg](01007-icon-service-Static-Apps.svg)
+- [03291-icon-service-API-Center.svg](03291-icon-service-API-Center.svg)
+- [03335-icon-service-Power-Platform.svg](03335-icon-service-Power-Platform.svg)
+- [03397-icon-service-App-Space.svg](03397-icon-service-App-Space.svg)
+- [10035-icon-service-App-Services.svg](10035-icon-service-App-Services.svg)
+- [10042-icon-service-API-Management-Services.svg](10042-icon-service-API-Management-Services.svg)
+- [10044-icon-service-Cognitive-Search.svg](10044-icon-service-Cognitive-Search.svg)
+- [10047-icon-service-App-Service-Environments.svg](10047-icon-service-App-Service-Environments.svg)
+- [10048-icon-service-API-Connections.svg](10048-icon-service-API-Connections.svg)
+- [10052-icon-service-SignalR.svg](10052-icon-service-SignalR.svg)
+- [10053-icon-service-Notification-Hub-Namespaces.svg](10053-icon-service-Notification-Hub-Namespaces.svg)
+- [10073-icon-service-Front-Door-and-CDN-Profiles.svg](10073-icon-service-Front-Door-and-CDN-Profiles.svg)
+- [10162-icon-service-Cognitive-Services.svg](10162-icon-service-Cognitive-Services.svg)
+- [10309-icon-service-Azure-Media-Service.svg](10309-icon-service-Azure-Media-Service.svg)
+- [10370-icon-service-Azure-Spring-Apps.svg](10370-icon-service-Azure-Spring-Apps.svg)

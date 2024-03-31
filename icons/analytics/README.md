@@ -1,0 +1,20 @@
+# Analytics
+This directory contains the following files:
+
+- [00009-icon-service-Log-Analytics-Workspaces.svg](00009-icon-service-Log-Analytics-Workspaces.svg)
+- [00039-icon-service-Event-Hubs.svg](00039-icon-service-Event-Hubs.svg)
+- [00042-icon-service-Stream-Analytics-Jobs.svg](00042-icon-service-Stream-Analytics-Jobs.svg)
+- [00562-icon-service-Endpoint-Analytics.svg](00562-icon-service-Endpoint-Analytics.svg)
+- [00606-icon-service-Azure-Synapse-Analytics.svg](00606-icon-service-Azure-Synapse-Analytics.svg)
+- [02189-icon-service-Azure-Workbooks.svg](02189-icon-service-Azure-Workbooks.svg)
+- [02209-icon-service-Private-Link-Services.svg](02209-icon-service-Private-Link-Services.svg)
+- [03332-icon-service-Power-BI-Embedded.svg](03332-icon-service-Power-BI-Embedded.svg)
+- [03335-icon-service-Power-Platform.svg](03335-icon-service-Power-Platform.svg)
+- [10126-icon-service-Data-Factories.svg](10126-icon-service-Data-Factories.svg)
+- [10142-icon-service-HD-Insight-Clusters.svg](10142-icon-service-HD-Insight-Clusters.svg)
+- [10143-icon-service-Data-Lake-Analytics.svg](10143-icon-service-Data-Lake-Analytics.svg)
+- [10145-icon-service-Azure-Data-Explorer-Clusters.svg](10145-icon-service-Azure-Data-Explorer-Clusters.svg)
+- [10148-icon-service-Analysis-Services.svg](10148-icon-service-Analysis-Services.svg)
+- [10149-icon-service-Event-Hub-Clusters.svg](10149-icon-service-Event-Hub-Clusters.svg)
+- [10150-icon-service-Data-Lake-Store-Gen1.svg](10150-icon-service-Data-Lake-Store-Gen1.svg)
+- [10787-icon-service-Azure-Databricks.svg](10787-icon-service-Azure-Databricks.svg)
